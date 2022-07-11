@@ -1,6 +1,6 @@
 # ft_printf
 
-*"This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects."*
+*"This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions."*
 
 ### Subject and goal:
 *'You will discover a popular and versatile C function: printf(). This exercise is a great
