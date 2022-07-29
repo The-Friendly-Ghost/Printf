@@ -1,5 +1,7 @@
 # ft_printf
 
+[![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/printf/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/printf)
+
 *"This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions."*
 
 ### Subject and goal:
