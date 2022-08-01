@@ -1,4 +1,4 @@
-# ft_printf
+# ft_printf 🖨️
 
 [![CodeFactor](https://www.codefactor.io/repository/github/the-friendly-ghost/printf/badge)](https://www.codefactor.io/repository/github/the-friendly-ghost/printf)
 
